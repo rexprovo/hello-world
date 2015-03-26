@@ -1,5 +1,5 @@
-# hello-world
+# Just my notes
 
-Just another start
+*GitHub Guides* - https://guides.github.com/activities/hello-world/
 
-First edit
+
